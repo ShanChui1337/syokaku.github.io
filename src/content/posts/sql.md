@@ -1,7 +1,7 @@
 ---
 title: SQL 基本学习
 published: 2026-06-02
-pinned: fasle
+pinned: false
 description: 一篇关于学习SQL语法的博客
 tags: [SQL, MySQL]
 category: Examples
